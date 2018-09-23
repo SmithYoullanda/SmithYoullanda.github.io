@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head >
+        <title>Portfolio</title>
+        <link href="https://fonts.googleapis.com/css?family=Cedarville+Cursive" rel="stylesheet">
+    </head>
+
+    <body>
+        <div class="row-footer">
+            <p>Youllanda Smith</p>
+            <p> About Me:</p>
+            <p>Portfolio</p>
+            <p>Contact</p>
+        </div>
+        <div class="row mid">
+            <h1> Youllanda</h1>
+            <img class="headshot"src="https://www.rosielettsnutrition.com/wp-content/uploads/2017/04/Headshot-Placeholder.png">
+            <h1>Smith</h1>
+        </div>
+        <div class="row aboutme">
+            <img src="https://images.unsplash.com/photo-1498081959737-f3ba1af08103?ixlib=rb-0.3.5&s=ed67b16bc17277a69b838b635ccca96e&auto=format&fit=crop&w=334&q=80">
+        </div>
+        <div class="rowcontact">
+                <p>Github</p>
+                <p>Twitter</p>
+                <p>LinkedIn</p>       
+        </div>
+         <div class="row footer">
+            <p>Copyright ©Smith LLC 2018</p>
+        </div>
+    </body>
+</html>
